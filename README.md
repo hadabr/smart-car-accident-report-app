@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300px" src="./preview.png">
+  <img width="300px" src="./wireframe_motorai12.png">
 </p>
 
 <h1 align="center">Smart Report App</h1>
