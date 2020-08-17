@@ -2,7 +2,7 @@
   <img width="300px" src="./preview.png">
 </p>
 
-<h1 align="center">Smart Report App/h1>
+<h1 align="center">Smart Report App</h1>
 
 <p align="center">The React Native implementation of car accident </p>
 
